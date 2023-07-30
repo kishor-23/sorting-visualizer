@@ -4,7 +4,7 @@
 
 A Sorting Visualizer web application that demonstrates various sorting algorithms using bars to represent elements in an array. This project allows users to visualize the process of sorting in real-time, making it easier to understand how different sorting algorithms work.
 
-![Sorting Visualizer Demo](demo.gif)
+![Sorting Visualizer Demo](demo.gif.gif)
 
 ## Features
 
